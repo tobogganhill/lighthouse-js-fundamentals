@@ -1,3 +1,3 @@
 # lighthouse-js-fundamentals
----
+
 Prep
